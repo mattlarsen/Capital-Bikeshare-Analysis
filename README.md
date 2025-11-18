@@ -11,5 +11,5 @@ Matt Larsen - https://github.com/mattlarsen/Capital-Bikeshare-Analysis
 | Input                      | Output                    |
 |----------------------------|---------------------------|
 |<img width="832" height="77" alt="Rideshare_Data_PNG" src="https://github.com/user-attachments/assets/a151927b-d53b-4d86-bef3-02559350ac31" />
-) | <img width="540" height="428" alt="image" src="https://github.com/user-attachments/assets/547cc9bd-3e4a-4786-abb5-3f5bfc6ce11d" />
-)   |
+ | <img width="540" height="428" alt="image" src="https://github.com/user-attachments/assets/547cc9bd-3e4a-4786-abb5-3f5bfc6ce11d" />
+   |
