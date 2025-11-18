@@ -10,4 +10,5 @@ Matt Larsen - https://github.com/mattlarsen/Capital-Bikeshare-Analysis
 ### Example Input and Output 
 | Input                      | Output                    |
 |----------------------------|---------------------------|
-|![Input](input_example.png) | ![Output](output_example.png)   |
+|![Input](input_example.png) | <img width="540" height="428" alt="image" src="https://github.com/user-attachments/assets/547cc9bd-3e4a-4786-abb5-3f5bfc6ce11d" />
+)   |
